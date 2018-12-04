@@ -26,6 +26,7 @@ function inicVector(){
   }
 }
 
+inicVector();
 
 function buscarMenor(array,n){
   var pos=0;
